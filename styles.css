@@ -274,8 +274,7 @@ main.portfolio {
 	background-color: #FFF;
 
 	padding: 2em 6%;
-    
-  column-width: 100%;
+
    
 }
 
@@ -547,9 +546,7 @@ footer {
 	body {
 
 		margin-top: 141px;
-
-    background-color: #ddd;
-      
+        
 	}
 
 	.jammer p {
@@ -814,7 +811,7 @@ footer {
 
 		padding: .1em;
     
-    background-color: #888;
+  
     
     
 
